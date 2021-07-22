@@ -14,7 +14,7 @@ Results: from the mapping study, we identified 108 studies addressing CMs initia
 
 Conclusions: based on our results we conclude that the use of CMs as an educational tool has been widely accepted in Computer Science.
 
-## links
+## Links
 
 Access the full paper here: https://infedu.vu.lt/journal/INFEDU/article/64/info
 
